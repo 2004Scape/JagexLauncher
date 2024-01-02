@@ -1,0 +1,9 @@
+.vs/
+Release/
+x64/
+*.vcxproj.user
+
+/Installer/LostCityInstaller.msi
+/Installer/setup.exe
+/Installer/jagexlauncher/*
+!/Installer/jagexlauncher/lostcity/

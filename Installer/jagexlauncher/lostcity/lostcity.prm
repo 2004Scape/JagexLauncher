@@ -1,0 +1,5 @@
+-Djava.class.path=jagexappletviewer.jar
+-Dcom.jagex.config=http://master.2004scape.org/jav_config.ws
+-Xmx128m
+-Xss2m
+jagexappletviewer
